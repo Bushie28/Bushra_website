@@ -1,0 +1,40 @@
+*{
+	background-color:#B0C4DE;
+	}
+	#HomePage{
+		text-align: center;
+	}
+	#About{
+		text-align:left;
+	}
+	#Projects{
+		text-align:left;
+	}
+	#Blog{
+	}
+	#Contact{
+	}
+	.nav-links li a.active {
+  background-color: #CD5C5C;
+	}
+	nav{
+	display:float;
+	
+	}
+	.nav-links{
+			list-style-type:none;
+			margin:0; 
+			padding:0;
+			color:#C0C0C0;
+			}
+	
+	li a {
+			display:block;
+			text-align:center;
+			padding: 14px 16px;
+			text-decoration:none;	
+		}	
+	.nav-links li a:hover {
+  		color: #191970;
+	}
+	
